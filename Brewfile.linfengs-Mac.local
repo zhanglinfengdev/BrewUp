@@ -210,7 +210,7 @@ brew "nsnake"
 brew "nspr"
 brew "nss"
 brew "tcl-tk"
-brew "pillow", link: false
+brew "pillow"
 brew "pyenv"
 brew "python@3.8"
 brew "qt@5"
